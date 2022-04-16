@@ -34,7 +34,7 @@ i18n.configure({
   defaultLocale: "en",
   retryInDefaultLocale: true,
   objectNotation: true,
-  register: global,
+  /*register: global,*/
 
   logWarnFn: function (msg) {
     console.log(msg);
