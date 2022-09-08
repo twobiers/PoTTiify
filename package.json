@@ -20,7 +20,7 @@
     "lyrics-finder": "^21.0.5",
     "simple-youtube-api": "^5.1.1",
     "soundcloud-downloader": "^0.2.3",
-    "mongoose": "^5.11.13",
+    "mongoose": "^6.5.5",
     "node-spotify-api": "^1.1.1",
     "spotify-uri": "^2.1.0",
     "spotify-url-info": "^2.2.0",
