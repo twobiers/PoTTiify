@@ -23,7 +23,7 @@
     "mongoose": "^5.11.13",
     "node-spotify-api": "^1.1.1",
     "spotify-uri": "^2.1.0",
-    "spotify-url-info": "^2.2.0",
+    "spotify-url-info": "^3.2.3",
     "string-progressbar": "^1.0.3",
     "ytdl-core": "^4.4.5",
     "ytdl-core-discord": "^1.2.5",
